@@ -1,3 +1,3 @@
 Information Retrieval Course final Project
 
-Implemented a simple reverse index search engine on news dataset.
+Implemented a simple inverted index search engine on the news dataset.
